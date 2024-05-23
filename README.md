@@ -13,14 +13,14 @@ A list of commonly used VIM commands.
 
 | Command | Description |
 | ------- | ----------- |
-| `H' | Move to top of visible screen |
-| `L' | Move to bottom of visible screen |
-| `M' | Move to the middle of screen |
-| `[[' | Move to the first line of the file |
-| `gg' | Move to the first line of the file |
-| `]]' | Move to the last line of the file |
-| `G' | Move to the last line of the file |
-| `nG' | Move to a specific line number |
+| `H` | Move to top of visible screen |
+| `L` | Move to bottom of visible screen |
+| `M` | Move to the middle of screen |
+| `[[` | Move to the first line of the file |
+| `gg` | Move to the first line of the file |
+| `]]` | Move to the last line of the file |
+| `G` | Move to the last line of the file |
+| `nG` | Move to a specific line number |
 
 ## Spell Check
 
@@ -35,11 +35,11 @@ A list of commonly used VIM commands.
 
 | Command | Description |
 | ------- | ----------- |
-| `Ex' | Enter Netrw |
-| `Explore' | Enter Netrw |
-| `Enter' | Open folder or file |
-| `-' | Go up a level |
-| `gh' | Toggles the hidden files |
-| `%' | Create file |
-| `d' | Create directory |
-| `D' | Delete file or empty directory |
+| `Ex` | Enter Netrw |
+| `Explore` | Enter Netrw |
+| `Enter` | Open folder or file |
+| `-` | Go up a level |
+| `gh` | Toggles the hidden files |
+| `%` | Create file |
+| `d` | Create directory |
+| `D` | Delete file or empty directory |
