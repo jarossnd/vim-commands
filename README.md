@@ -6,18 +6,14 @@ A list of commonly used VIM commands.
 | Command | Description |
 | ------- | ----------- |
 | `i` | Insert Mode |
-| Esc | Command Mode |
+| `Esc` | Command Mode |
+| `/<search_term>` | Search and then cycle through matches with n and N |
 
 ## Spell Check
 
 | Command | Description |
 | ------- | ----------- |
 | `]s` | Next misspelled word |
-| `[s` | Back misspelled word |
-| `z=` | Over misspelled word to get alternatives |
+| `[s` | Previous misspelled word |
+| `z=` | Get alternatives |
 | `zg` | Add word to dictionary |
-
-- `]s` - Next misspelled word
-- `[s` - Back misspelled word
-- `z=` = Over misspelled word to get alternatives
-- `zg` = Add word to dictionary
